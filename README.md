@@ -1,4 +1,4 @@
-# Stamp
+# Stamp Inc
 
 ## Moonshot
 瞬間移動を実現する
