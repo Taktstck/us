@@ -1,7 +1,7 @@
 # Stamp Inc
 
 ## Credo
-Stampは、常に__Thank__を求め行動します。
+Stampは、常に __Thank__ を求め行動します。
 
 ## Mission
 Stampのミッションは、テクノロジーを使って人類を前進させることです。
