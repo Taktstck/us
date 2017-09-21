@@ -1,7 +1,7 @@
 # Stamp Inc
 
 ## Moonshot
-瞬間移動を実現する
+魔法を作る
 
 ## Credo
 Stampは、常にThanksを求め行動します。
